@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Zubair Edit</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f8f9fa;
+      padding: 2rem;
+      text-align: center;
+    }
+    h1 {
+      color: #333;
+    }
+    p {
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <h1>Welcome to Zubair_Edit</h1>
+  <p>I create quality short-form video edits for WhatsApp, TikTok, Instagram & Facebook.</p>
+  <p>Contact: +2349013416085</p>
+  <p>
+    <a href="https://www.tiktok.com/@zubair_edit2.0" target="_blank">TikTok</a> |
+    <a href="https://www.facebook.com/" target="_blank">Facebook</a>
+  </p>
+</body>
+</html>
